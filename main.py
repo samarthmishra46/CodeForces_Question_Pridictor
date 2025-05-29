@@ -38,7 +38,7 @@ origins = [
     "http://localhost:5173",    # Common for Vite/Vue dev server
     "http://localhost:8080",    # Common for Vue CLI dev server
     "http://127.0.0.1:5500",
-    "https://code-forces-question-pridictor-bpuy-ten.vercel.app/",
+    "https://code-forces-question-pridictor-bpuy-ten.vercel.app",
             # Common for VS Code Live Server
     # Add THE SPECIFIC ORIGIN (PROTOCOL + HOSTNAME + PORT) of your frontend
     # If you are unsure, for testing, you can use ["*"] but this is insecure for production.
