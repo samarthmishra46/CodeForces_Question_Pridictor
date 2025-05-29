@@ -1,0 +1,27 @@
+/* src/components/RecommendationList.css */
+.recommendation-list {
+    margin-top: 20px;
+}
+
+.recommendation-list h2 {
+    color: #333;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+.no-recommendations, .error-message {
+    text-align: center;
+    font-style: italic;
+    color: #777;
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px dashed #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+}
+
+.error-message {
+    color: #d9534f; /* Bootstrap danger color */
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}

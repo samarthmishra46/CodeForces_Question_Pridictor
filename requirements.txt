@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+python-multipart
+
+# LLM SDKs (optional - install as needed)
+openai
+anthropic
+google-generativeai
